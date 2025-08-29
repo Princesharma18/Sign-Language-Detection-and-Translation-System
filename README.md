@@ -30,7 +30,7 @@ This project aims to improve accessibility by bridging the communication gap bet
 - Display text output.
 
 ---
-## Demo
+## Preview
 
 <img width="3838" height="1848" alt="Screenshot 2025-08-29 173825" src="https://github.com/user-attachments/assets/e695ee7b-c4a9-4866-87ba-bbaba62778d9" />
 
