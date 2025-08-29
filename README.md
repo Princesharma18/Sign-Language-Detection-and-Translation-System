@@ -14,7 +14,7 @@ This project aims to improve accessibility by bridging the communication gap bet
 ---
 
 ## 🛠️ Tech Stack
-- **Python**
+- **Python**,**Django**
 - **PyTorch** – Model training & prediction
 - **OpenCV** – Image processing & webcam capture
 - **MediaPipe** – Hand landmark detection
